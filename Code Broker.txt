@@ -1,0 +1,1 @@
+sudo mosquitto --daemon --config-file /usr/local/etc/mosquitto.conf
