@@ -3,8 +3,8 @@ import time
 import socket
 
 
-SSID = "Sam"
-PASSWORD = "chidow123"
+SSID = "SSID"
+PASSWORD = "PASSWORD"
 
 def do_connect(ssid,psw):
     wlan = network.WLAN(network.STA_IF)
